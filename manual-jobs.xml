@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <jobs>
   <job>
     <id>apollo-medflight-helicopter-pilot---hems-clarksdale,-ms</id>
@@ -13,7 +14,6 @@ AIRCRAFT:
 SCHEDULE: 14/14
 COMPENSATION: 92820
 LOCATION: Clarksdale, MS
-
     ]]></description>
   </job>
 </jobs>
